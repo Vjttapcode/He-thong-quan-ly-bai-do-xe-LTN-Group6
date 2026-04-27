@@ -26,7 +26,6 @@
 /* Includes ---------------------------------------------------------------- */
 #include <AIGARA_inferencing.h>
 #include "edge-impulse-sdk/dsp/image/image.hpp"
-
 #include "esp_camera.h"
 
 // Select camera model - find more camera models in camera_pins.h file here
