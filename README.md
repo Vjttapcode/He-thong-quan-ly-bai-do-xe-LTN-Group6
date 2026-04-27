@@ -4,6 +4,11 @@
 
 **HỆ THỐNG QUẢN LÝ BÃI ĐỖ XE THÔNG MINH TÍCH HỢP AI HỖ TRỢ KIỂM SOÁT SỐ LƯỢNG XE**
 
+## Thông tin môn học
+
+- Môn học: Xây dựng hệ thống nhúng.
+- Giảng viên hướng dẫn: Phạm Hoàng Việt.
+
 ## Nội dung
 
 Dự án xây dựng mô hình bãi giữ xe thông minh sử dụng ESP32 làm bộ điều khiển trung tâm. Hệ thống có các chức năng chính:
